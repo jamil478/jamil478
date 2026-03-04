@@ -1,4 +1,4 @@
-# <="" width="40"> I'm Jamil Hasan
+#  I'm Jamil Hasan
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=NEXT-GEN+WEB+ARCHITECT;3D+INTERACTIVE+ENGINEER;HIGH-PERFORMANCE+UX%2FUI" alt="Typing SVG" />
